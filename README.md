@@ -1,7 +1,7 @@
 # arvr-startup-strategy-slider
 Slide Deck Presentation for Augmented Reality In Action (ARIA) talk @ MIT Media Lab in 2018
 
-Just a simple HTML slide deck created in Google Slides 👉exported as html.
+Just a simple HTML slide deck created in KeyNote and exported as 👉 html.
 
 
 [![alt text][image]][hyperlink]
